@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Whatsapp UI clone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="nameTextView">Mohak</string>
+    <string name="dateTextView">5:01 PM</string>
+    <string name="messageTextView">Hey, Whats Up?</string>
+
+    <string name="myStatustxtView">My Status</string>
+    <string name="statusDescription">Just now</string>
+    <string name="recentUpdates">Recent Updates</string>
+    <string name="someone">Someone</string>
+    <string name="timeTxtView">Today, 11:45 AM</string>
+
+
+    <string name="date_time">26/03/18, 5:25 PM</string>
+
+
+
+
+
+</resources>
